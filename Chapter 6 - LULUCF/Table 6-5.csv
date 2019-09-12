@@ -1,0 +1,36 @@
+"Table 6-5:  Emissions and Removals from Land Use, Land-Use Change, and Forestry (kt)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gas/Land-Use Category,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+Carbon Stock Change (CO2)a,"-814,784","-824,748","-802,259","-780,583","-816,263","-760,218","-799,753","-774,378","-774,300","-770,095","-787,285","-733,210","-743,843","-647,142","-687,469","-756,056","-757,306","-720,936","-671,475","-700,328","-681,951","-747,203","-748,971","-730,952","-687,769","-739,378","-738,074","-729,563"
+Forest Land Remaining Forest Land,"-671,583","-673,918","-668,112","-670,651","-666,122","-650,367","-655,962","-647,231","-645,111","-633,116","-612,389","-595,965","-608,909","-525,923","-574,755","-639,396","-633,093","-615,605","-564,996","-600,406","-588,225","-614,382","-604,147","-616,684","-568,768","-645,215","-628,935","-621,066"
+Land Converted to Forest Land,"-119,073","-119,133","-119,133","-119,228","-119,312","-119,397","-119,455","-119,481","-119,525","-119,616","-119,667","-119,743","-119,759","-119,817","-119,877","-119,951","-120,053","-120,094","-120,139","-120,188","-120,255","-120,376","-120,418","-120,451","-120,493","-120,596","-120,635","-120,618"
+Cropland Remaining Cropland,"-40,940","-48,084","-39,973","-21,051","-32,836","-26,307","-34,531","-33,845","-22,690","-42,299","-47,655","-36,002","-32,114","-24,038","-23,041","-26,544","-22,234","-20,064","-8,474","-3,150","-3,368","-19,150","-21,385","-11,367","-12,018","-6,321","-9,941","-10,280"
+Land Converted to Cropland,"75,580","76,201","78,306","72,992","69,723","75,650","72,634","74,191","68,345","68,274","68,001","67,106","66,771","68,144","67,185","66,657","67,589","66,087","66,421","65,818","67,540","67,382","66,451","66,945","66,750","66,709","67,314","66,865"
+Grassland Remaining Grassland,"-4,214","-6,858","-1,799","6,373","-19,468","3,588","-17,282","-4,235","-11,966",246,"-29,421","-5,419","-7,285","-4,072","4,132","5,492","-11,701","4,810","-7,090","-2,446","4,474","-12,516","-20,814","-3,745","-7,549","9,596","-1,621",-55
+Land Converted to Grassland,"8,738","8,580","8,914","8,196","6,307","7,575","6,608","6,841","5,551","5,220","3,179","4,141","4,018","4,409","5,037","5,124","4,086","5,943","6,324","6,805","6,864","6,883","6,803","8,269","7,927","9,786","8,500","8,347"
+Wetlands Remaining Wetlands,"-4,050","-4,139","-4,191","-4,137","-4,200","-4,098","-7,442","-7,278","-7,236","-7,171","-7,107","-5,700","-5,779","-5,791","-5,647","-5,689",629,812,802,844,861,"-4,068","-4,274","-4,325","-4,329","-4,359","-4,390","-4,399"
+Land Converted to Wetlands,-44,-44,-44,-44,-44,-44,-54,-54,-54,-54,-54,-32,-32,-32,-32,-32,-45,-45,-45,-45,-45,-44,-44,-44,-44,-44,-44,-44
+Settlements Remaining Settlements,"-122,119","-121,721","-122,281","-120,913","-120,019","-118,448","-118,125","-119,049","-119,278","-120,948","-123,366","-124,237","-125,326","-125,041","-126,132","-127,755","-129,159","-129,835","-131,468","-134,551","-136,400","-136,973","-137,054","-135,916","-135,793","-135,409","-134,680","-134,524"
+Land Converted to Settlements,"62,921","64,368","66,054","67,879","69,708","71,630","73,856","75,762","77,664","79,371","81,195","82,643","84,572","85,019","85,661","86,038","86,674","87,056","87,189","86,992","86,604","86,041","85,909","86,366","86,548","86,474","86,358","86,212"
+CH4,199,196,217,162,331,169,302,158,205,282,459,244,500,408,444,362,423,481,392,340,280,345,521,397,402,659,350,352
+Forest Land Remaining Forest Land: Forest Firesb,59,55,73,18,181,23,143,15,59,123,299,93,350,259,299,208,250,319,240,184,130,171,354,245,243,502,194,194
+Wetlands Remaining Wetlands: Coastal Wetlands Remaining Coastal Wetlands,137,137,137,138,138,139,139,140,140,140,141,141,141,141,140,140,140,140,140,141,141,141,142,142,143,143,144,144
+Grassland Remaining Grassland: Grassland Firesc,3,3,5,4,11,6,18,3,5,17,17,9,8,8,3,13,32,20,10,15,7,32,23,8,16,13,11,12
+Land Converted to Wetlands: Land Converted to Coastal Wetlands ,1,1,1,1,1,1,1,1,1,1,1,+ ,+ ,+ ,+ ,+ ,1,1,1,1,1,1,1,1,1,1,1,1
+Forest Land Remaining Forest Land: Drained Organic Soilsd ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Wetlands Remaining Wetlands: Peatlands Remaining Peatlands,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ 
+N2O,9,9,11,9,19,10,18,10,12,17,28,17,31,26,28,23,28,31,25,22,19,23,33,25,26,40,22,22
+Forest Land Remaining Forest Land: Forest Firesb,3,3,4,1,10,1,8,1,3,7,17,5,19,14,17,11,14,18,13,10,7,9,20,14,13,28,11,11
+Settlements Remaining Settlements: Settlement Soilse,5,5,5,6,7,6,6,6,6,6,7,8,8,8,9,8,8,9,8,8,9,9,9,9,9,9,8,8
+Forest Land Remaining Forest Land: Forest Soilsf,+ ,+ ,+ ,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Grassland Remaining Grassland: Grassland Firesc,+ ,+ ,+ ,+ ,1,1,2,+ ,+ ,2,2,1,1,1,0,1,3,2,1,1,1,3,2,1,1,1,1,1
+Wetlands Remaining Wetlands: Coastal Wetlands Remaining Coastal Wetlands,+ ,+ ,1,+ ,+ ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,+ ,+ ,+ ,+ ,+ ,+ ,+ 
+Forest Land Remaining Forest Land: Drained Organic Soilsd,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ 
+Wetlands Remaining Wetlands: Peatlands Remaining Peatlands,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ 
++ Absolute value does not exceed 0.5 kt.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"a LULUCF Carbon Stock Change is the net C stock change from the following categories: Forest Land Remaining Forest Land, Land Converted to Forest Land, Cropland Remaining Cropland, Land Converted to Cropland, Grassland Remaining Grassland, Land Converted to Grassland, Wetlands Remaining Wetlands, Land Converted to Wetlands, Settlements Remaining Settlements, and Land Converted to Settlements.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b Estimates include emissions from fires on both Forest Land Remaining Forest Land and Land Converted to Forest Land.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c Estimates include emissions from fires on both Grassland Remaining Grassland and Land Converted to Grassland.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d Estimates include emissions from drained organic soils on both Forest Land Remaining Forest Land and Land Converted to Forest Land.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e Estimates include emissions from N fertilizer additions on both Settlements Remaining Settlements and Land Converted to Settlements.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f Estimates include emissions from N fertilizer additions on both Forest Land Remaining Forest Land and Land Converted to Forest Land.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes: Totals may not sum due to independent rounding. Parentheses indicate net sequestration.,,,,,,,,,,,,,,,,,,,,,,,,,,,,

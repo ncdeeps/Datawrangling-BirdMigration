@@ -1,0 +1,11 @@
+Table 6-32:  Approach 2 Quantitative Uncertainty Estimates for Soil C Stock Changes occurring within Cropland Remaining Cropland (MMT CO2 Eq. and Percent),,,,,
+Source,2017 Flux Estimate,Uncertainty Range Relative to Flux Estimatea,,,
+,(MMT CO2 Eq.),(MMT CO2 Eq.),(MMT CO2 Eq.),(%),(%)
+,,Lower,Upper,Lower,Upper
+,,Bound,Bound,Bound,Bound
+"Mineral Soil C Stocks: Cropland Remaining Cropland, Tier 3 Inventory Methodology",-36.5,-79.8,6.8,-119%,119%
+"Mineral Soil C Stocks: Cropland Remaining Cropland, Tier 2 Inventory Methodology",-3.5,-6.9,-0.1,-96%,96%
+"Organic Soil C Stocks: Cropland Remaining Cropland, Tier 2 Inventory Methodology",29.7,26.5,32.9,-11%,11%
+Combined Uncertainty for Flux associated with Agricultural Soil Carbon Stock Change in Cropland Remaining Cropland,-10.3,-53.8,33.2,-423%,423%
+a Range of C stock change estimates predicted by Monte Carlo Stochastic Simulation with a 95 percent confidence interval.,,,,,
+Note: Parentheses indicate net sequestration.,,,,,

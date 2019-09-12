@@ -1,0 +1,36 @@
+"Table 6-45:  Approach 2 Quantitative Uncertainty Estimates for Soil, Dead Organic Matter and Biomass C Stock Changes occurring within Land Converted to Grassland (MMT CO2 Eq. and Percent)",,,,,
+Source,2017 Flux Estimatea,Uncertainty Range Relative to Flux Estimatea,,,
+,(MMT CO2 Eq.),(MMT CO2 Eq.),(MMT CO2 Eq.),(%),(%)
+,,Lower,Upper,Lower,Upper
+,,Bound,Bound,Bound,Bound
+Cropland Converted to Grassland,-7.6,-16.3,1.2,-116%,116%
+Mineral Soil C Stocks: Tier 3,-8.6,-17.4,0.1,-102%,102%
+Mineral Soil C Stocks: Tier 2,-0.1,-0.3,0.1,-333%,333%
+Organic Soil C Stocks: Tier 2,1.1,0.8,1.4,-29%,29%
+Forest Land Converted to Grassland,15.8,0.3,31.4,-98%,98%
+     Aboveground Live Biomass,12.6,-0.6,25.7,-104%,104%
+Belowground Live Biomass,2.4,-0.1,4.9,-105%,104%
+Dead Wood ,-0.9,-6.6,4.7,-597%,599%
+Litter ,4.8,-0.2,9.9,-105%,104%
+Mineral Soil C Stocks: Tier 2,-3.2,-5.4,-1,-70%,70%
+Organic Soil C Stocks: Tier 2,0.1,0.1,0.2,-43%,43%
+Other Lands Converted to Grassland,-0.1,-0.3,0.1,-250%,251%
+Mineral Soil C Stocks: Tier 2,-0.1,-0.3,0.1,-160%,160%
+Organic Soil C Stocks: Tier 2,+,+,0.1,-37%,37%
+Settlements Converted to Grassland,+,+,+,-79%,79%
+Mineral Soil C Stocks: Tier 2,+,+,+,-575%,550%
+Organic Soil C Stocks: Tier 2,+,+,+,-51%,53%
+Wetlands Converted to Grasslands,0.1,-0.1,0.3,-174%,173%
+Mineral Soil C Stocks: Tier 2,-0.2,-0.4,+,-83%,83%
+Organic Soil C Stocks: Tier 2,0.3,0.2,0.4,-42%,42%
+Total: Land Converted to Grassland,8.3,-9.5,26.2,-214%,214%
+     Aboveground Live Biomass,12.6,-0.6,25.7,-104%,104%
+Belowground Live Biomass,2.4,-0.1,4.9,-105%,104%
+Dead Wood ,-0.9,-6.6,4.7,-597%,599%
+Litter ,4.8,-0.2,9.9,-105%,104%
+Mineral Soil C Stocks: Tier 3,-8.6,-17.4,0.1,-102%,102%
+Mineral Soil C Stocks: Tier 2,-3.6,-5.8,-1.3,-63%,63%
+Organic Soil C Stocks: Tier 2,1.6,1.3,2,-22%,22%
++ Absolute value does not exceed 0.05 MMT CO2 Eq.,,,,,
+a Range of C stock change estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval.,,,,,
+Notes: Totals may not sum due to independent rounding. Parentheses indicate negative values or net sequestration.,,,,,

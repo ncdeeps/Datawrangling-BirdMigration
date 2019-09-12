@@ -1,0 +1,12 @@
+Table 6-38:  Approach 2 Quantitative Uncertainty Estimates for C Stock Changes Occurring Within Grassland Remaining Grassland (MMT CO2 Eq. and Percent),,,,,
+Source,2017 Flux Estimate,Uncertainty Range Relative to Flux Estimatea,,,
+,(MMT CO2 Eq.),(MMT CO2 Eq.),(MMT CO2 Eq.),(%),(%)
+,,Lower Bound,Upper Bound,Lower Bound,Upper Bound
+"Mineral Soil C Stocks Grassland Remaining Grassland, Tier 3 Methodology",-4,-44.4,36.5,-1016%,1016%
+"Mineral Soil C Stocks: Grassland Remaining Grassland, Tier 2 Methodology",-1.5,-2.9,+,-100%,100%
+"Mineral Soil C Stocks: Grassland Remaining Grassland, Tier 2 Methodology (Change in Soil C due to Biosolids [i.e., Sewage Sludge] Amendments)",-0.2,-0.2,-0.1,-50%,50%
+"Organic Soil C Stocks: Grassland Remaining Grassland, Tier 2 Methodology",5.6,5,6.1,-10%,10%
+Combined Uncertainty for Flux Associated with Agricultural Soil Carbon Stock Change in Grassland Remaining Grassland,-0.1,-40.5,40.4,-74245%,74245%
+a Range of C stock change estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval.,,,,,
++ Does not exceed 0.05 MMT CO2 Eq.,,,,,
+Notes: Totals may not sum due to independent rounding. Parentheses indicate negative values or net sequestration.,,,,,
