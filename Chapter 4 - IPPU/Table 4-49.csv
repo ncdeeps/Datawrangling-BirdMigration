@@ -1,0 +1,9 @@
+Table 4-49:  Approach 2 Quantitative Uncertainty Estimates for CH4 Emissions from Petrochemical Production and CO2 Emissions from Petrochemical Production (MMT CO2 Eq. and Percent) ,,,,,,,
+,,,,,,,
+,Source,Gas,2017 Emission Estimate,Uncertainty Range Relative to Emission Estimatea,,,
+,,,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),
+,,,,Lower,Upper,Lower,Upper
+,,,,Bound,Bound,Bound,Bound
+,Petrochemical Production,CO2,28.2,26.7,29.7,-5%,5%
+,Petrochemical Production,CH4,0.34,0.09,0.31,-57%,45%
+,a Range of emission estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval.,,,,,,
