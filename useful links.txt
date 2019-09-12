@@ -27,5 +27,8 @@ https://catalogue.data.govt.nz/dataset/annual-mean-sea-level-relative-to-land-19
 Pollution:
 http://data.un.org/Explorer.aspx?d=GHG&f=seriesID%3aCH4
 
+Sustainable energy:
+https://datacatalog.worldbank.org/dataset/sustainable-energy-all
+
 Glacier Level:
 https://datahub.io/core/glacier-mass-balance#r
