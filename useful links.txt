@@ -4,6 +4,8 @@ Useful Links
 
 https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks-1990-2017
 
+https://edgar.jrc.ec.europa.eu/overview.php?v=booklet2018&dst=CO2emi
+
 https://www.footprintnetwork.org/licenses/public-data-package-free/
 
 https://cliflo.niwa.co.nz/
