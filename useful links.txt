@@ -41,3 +41,6 @@ https://www.science.org.au/learning/general-audience/science-climate-change/3-ar
 
 Country Wise Latitude & Longitude data:
 https://simplemaps.com/resources/free-country-cities
+
+Reference R code for mapping latitude and longitude:
+https://www.jessesadler.com/post/geocoding-with-r/
