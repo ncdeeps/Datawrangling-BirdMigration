@@ -38,3 +38,6 @@ https://datahub.io/core/glacier-mass-balance#r
 General Trivia:
 https://19january2017snapshot.epa.gov/climate-change-science/causes-climate-change_.html
 https://www.science.org.au/learning/general-audience/science-climate-change/3-are-human-activities-causing-climate-change
+
+Country Wise Latitude & Longitude data:
+https://simplemaps.com/resources/free-country-cities
